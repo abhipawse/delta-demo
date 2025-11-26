@@ -27,6 +27,6 @@ Currently exploring advanced MERN technologies & backend architectures.
 ---
 
 ### 📫 Connect With Me:
-🚀 LinkedIn: (linkedin.com/in/abhishek-pawse-636914369)  
+🚀 LinkedIn: (<a> linkedin.com/in/abhishek-pawse-636914369 </a>)  
 💻 GitHub: https://github.com/abhipawse
 
